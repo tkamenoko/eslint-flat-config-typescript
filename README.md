@@ -1,0 +1,1 @@
+# eslint-flat-typescript-config
