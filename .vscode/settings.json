@@ -1,0 +1,14 @@
+{
+  "eslint.experimental.useFlatConfig": true,
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "[javascript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  },
+  "[typescript]": {
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+  }
+}
